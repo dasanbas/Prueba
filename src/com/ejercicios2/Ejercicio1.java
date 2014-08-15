@@ -22,6 +22,10 @@ public class Ejercicio1 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 				System.out.println("Ejercicio2");
+				
+				// haceindo cambios en ejercicio2
+				
+				System.out.println("Ejercicios");
 	}
 
 }
